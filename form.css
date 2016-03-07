@@ -1,0 +1,55 @@
+#shit { 
+    flex-direction: row; 
+    flex-wrap: wrap;
+    height: 450px;
+    width: 100%;
+}
+
+#name { 
+    height: 104px;
+    width: 49%; 
+}
+
+#work { 
+    height: 104px;
+    width: 49%;
+}
+
+
+#pnumber {
+    height: 104px;
+    width: 32.66%;
+}
+
+#email {
+    height: 104px;
+    width: 32.66%;
+    
+}
+
+#hours {
+    height: 104px;
+    width: 32%;
+}
+
+#skills {
+    height: 104px;
+    width: 24%;
+    
+    
+}
+
+#exp{
+    height: 104px;
+    width: 24%;
+}
+#color{ 
+    height: 104px;
+    width: 24%;
+    
+}
+
+#lang {
+    height: 104px;
+    width: 24.4%;
+}
